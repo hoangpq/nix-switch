@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.hoangpq.nixswitch.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.hoangpq.nixswitch.MyBundle
 
 class MyApplicationService {
 
